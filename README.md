@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1200&color=00D4FF&center=true&vCenter=true&width=800&lines=🛡️+SOC+Automation+Engineer;☁️+AWS+Cloud+Security+Builder;🔍+SIEM+%7C+Threat+Detection+%7C+Log+Analysis;🐍+Python+%7C+Docker+%7C+Linux+Security;🚀+Building+Real-Time+Attack+Detection+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1200&color=00D4FF&center=true&vCenter=true&width=800&lines=SOC+Automation+Engineer;Cloud+Security+on+AWS;SIEM+%7C+Threat+Detection+%7C+Log+Analysis;Python+%7C+Docker+%7C+Linux+Security;Building+Real-Time+Attack+Detection+Systems" />
 </p>
 
 <br/><br/>
