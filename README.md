@@ -4,9 +4,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a0e1a,100:00d4ff&height=240&section=header&text=Ravindu%20Rangana&fontSize=58&fontColor=00d4ff&fontAlignY=40&desc=Cybersecurity%20Engineer%20%7C%20SOC%20%7C%20Cloud%20Security&descSize=19&descAlignY=60&descColor=8b949e&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=🛡️+SOC+Automation+%26+Threat+Detection;🍯+Honeypot+Deployment+%26+Attack+Analysis;☁️+Cloud+Security+on+AWS;🔍+SIEM+%7C+Log+Analysis+%7C+Incident+Response;🐍+Python+%7C+Bash+%7C+Linux+Security+Engineering" alt="Typing SVG" />
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1200&color=00D4FF&center=true&vCenter=true&width=800&lines=🛡️+SOC+Automation+Engineer;☁️+AWS+Cloud+Security+Builder;🔍+SIEM+%7C+Threat+Detection+%7C+Log+Analysis;🐍+Python+%7C+Docker+%7C+Linux+Security;🚀+Building+Real-Time+Attack+Detection+Systems" />
+</p>
 
 <br/><br/>
 
