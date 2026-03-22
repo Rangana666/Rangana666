@@ -260,7 +260,7 @@ Fun Fact   : I deploy honeypots and let attackers walk right in — then
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/rangana666/rangana666/output/github-snake.svg"/>
 </picture>
 
-> 🐍 Enable snake animation → [platane/snk setup guide](https://github.com/platane/snk) — 2 minutes setup, looks insane.
+
 
 </div>
 
